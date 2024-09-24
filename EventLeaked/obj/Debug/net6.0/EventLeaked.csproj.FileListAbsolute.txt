@@ -1,0 +1,15 @@
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\bin\Debug\net6.0\EventLeaked.exe
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\bin\Debug\net6.0\EventLeaked.deps.json
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\bin\Debug\net6.0\EventLeaked.runtimeconfig.json
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\bin\Debug\net6.0\EventLeaked.dll
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\bin\Debug\net6.0\EventLeaked.pdb
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\obj\Debug\net6.0\EventLeaked.csproj.AssemblyReference.cache
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\obj\Debug\net6.0\EventLeaked.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\obj\Debug\net6.0\EventLeaked.AssemblyInfoInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\obj\Debug\net6.0\EventLeaked.AssemblyInfo.cs
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\obj\Debug\net6.0\EventLeaked.csproj.CoreCompileInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\obj\Debug\net6.0\EventLeaked.dll
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\obj\Debug\net6.0\refint\EventLeaked.dll
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\obj\Debug\net6.0\EventLeaked.pdb
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\obj\Debug\net6.0\EventLeaked.genruntimeconfig.cache
+E:\ProgramFiles\Repositories\AppsForProofs\EventLeaked\obj\Debug\net6.0\ref\EventLeaked.dll

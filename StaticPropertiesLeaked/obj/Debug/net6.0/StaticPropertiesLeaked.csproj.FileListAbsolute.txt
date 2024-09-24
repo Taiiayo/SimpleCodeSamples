@@ -1,0 +1,15 @@
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\bin\Debug\net6.0\StaticPropertiesLeaked.exe
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\bin\Debug\net6.0\StaticPropertiesLeaked.deps.json
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\bin\Debug\net6.0\StaticPropertiesLeaked.runtimeconfig.json
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\bin\Debug\net6.0\StaticPropertiesLeaked.dll
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\bin\Debug\net6.0\StaticPropertiesLeaked.pdb
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\obj\Debug\net6.0\StaticPropertiesLeaked.csproj.AssemblyReference.cache
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\obj\Debug\net6.0\StaticPropertiesLeaked.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\obj\Debug\net6.0\StaticPropertiesLeaked.AssemblyInfoInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\obj\Debug\net6.0\StaticPropertiesLeaked.AssemblyInfo.cs
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\obj\Debug\net6.0\StaticPropertiesLeaked.csproj.CoreCompileInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\obj\Debug\net6.0\StaticPropertiesLeaked.dll
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\obj\Debug\net6.0\refint\StaticPropertiesLeaked.dll
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\obj\Debug\net6.0\StaticPropertiesLeaked.pdb
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\obj\Debug\net6.0\StaticPropertiesLeaked.genruntimeconfig.cache
+E:\ProgramFiles\Repositories\AppsForProofs\StaticPropertiesLeaked\obj\Debug\net6.0\ref\StaticPropertiesLeaked.dll

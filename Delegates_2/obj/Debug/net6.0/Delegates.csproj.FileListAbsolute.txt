@@ -1,0 +1,15 @@
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\bin\Debug\net6.0\Delegates.exe
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\bin\Debug\net6.0\Delegates.deps.json
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\bin\Debug\net6.0\Delegates.runtimeconfig.json
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\bin\Debug\net6.0\Delegates.dll
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\bin\Debug\net6.0\Delegates.pdb
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\obj\Debug\net6.0\Delegates.csproj.AssemblyReference.cache
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\obj\Debug\net6.0\Delegates.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfoInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\obj\Debug\net6.0\Delegates.AssemblyInfo.cs
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\obj\Debug\net6.0\Delegates.csproj.CoreCompileInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\obj\Debug\net6.0\Delegates.dll
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\obj\Debug\net6.0\refint\Delegates.dll
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\obj\Debug\net6.0\Delegates.pdb
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\obj\Debug\net6.0\Delegates.genruntimeconfig.cache
+E:\ProgramFiles\Repositories\AppsForProofs\Delegates\obj\Debug\net6.0\ref\Delegates.dll

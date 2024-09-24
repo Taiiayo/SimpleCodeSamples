@@ -1,0 +1,15 @@
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\bin\Debug\net6.0\UnmanagedResourceLeaked.exe
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\bin\Debug\net6.0\UnmanagedResourceLeaked.deps.json
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\bin\Debug\net6.0\UnmanagedResourceLeaked.runtimeconfig.json
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\bin\Debug\net6.0\UnmanagedResourceLeaked.dll
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\bin\Debug\net6.0\UnmanagedResourceLeaked.pdb
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\obj\Debug\net6.0\UnmanagedResourceLeaked.csproj.AssemblyReference.cache
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\obj\Debug\net6.0\UnmanagedResourceLeaked.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\obj\Debug\net6.0\UnmanagedResourceLeaked.AssemblyInfoInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\obj\Debug\net6.0\UnmanagedResourceLeaked.AssemblyInfo.cs
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\obj\Debug\net6.0\UnmanagedResourceLeaked.csproj.CoreCompileInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\obj\Debug\net6.0\UnmanagedResourceLeaked.dll
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\obj\Debug\net6.0\refint\UnmanagedResourceLeaked.dll
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\obj\Debug\net6.0\UnmanagedResourceLeaked.pdb
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\obj\Debug\net6.0\UnmanagedResourceLeaked.genruntimeconfig.cache
+E:\ProgramFiles\Repositories\AppsForProofs\UnmanagedResourceLeaked\obj\Debug\net6.0\ref\UnmanagedResourceLeaked.dll

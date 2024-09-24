@@ -1,0 +1,15 @@
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\bin\Debug\net6.0\Multithreading.exe
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\bin\Debug\net6.0\Multithreading.deps.json
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\bin\Debug\net6.0\Multithreading.runtimeconfig.json
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\bin\Debug\net6.0\Multithreading.dll
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\bin\Debug\net6.0\Multithreading.pdb
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\obj\Debug\net6.0\Multithreading.csproj.AssemblyReference.cache
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\obj\Debug\net6.0\Multithreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\obj\Debug\net6.0\Multithreading.AssemblyInfoInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\obj\Debug\net6.0\Multithreading.AssemblyInfo.cs
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\obj\Debug\net6.0\Multithreading.csproj.CoreCompileInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\obj\Debug\net6.0\Multithreading.dll
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\obj\Debug\net6.0\refint\Multithreading.dll
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\obj\Debug\net6.0\Multithreading.pdb
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\obj\Debug\net6.0\Multithreading.genruntimeconfig.cache
+E:\ProgramFiles\Repositories\AppsForProofs\Multithreading\obj\Debug\net6.0\ref\Multithreading.dll

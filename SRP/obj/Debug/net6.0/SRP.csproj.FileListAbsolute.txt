@@ -1,0 +1,5 @@
+E:\ProgramFiles\Repositories\AppsForProofs\SRP\obj\Debug\net6.0\SRP.csproj.AssemblyReference.cache
+E:\ProgramFiles\Repositories\AppsForProofs\SRP\obj\Debug\net6.0\SRP.GeneratedMSBuildEditorConfig.editorconfig
+E:\ProgramFiles\Repositories\AppsForProofs\SRP\obj\Debug\net6.0\SRP.AssemblyInfoInputs.cache
+E:\ProgramFiles\Repositories\AppsForProofs\SRP\obj\Debug\net6.0\SRP.AssemblyInfo.cs
+E:\ProgramFiles\Repositories\AppsForProofs\SRP\obj\Debug\net6.0\SRP.csproj.CoreCompileInputs.cache
